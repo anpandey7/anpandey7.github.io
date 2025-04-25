@@ -24,18 +24,13 @@
   },
   "work": [
     {
-      "name": "BarrelCharge Solutions Inc.",
-      "position": "Mechanical Design Engineering Intern",
-      "startDate": "05-21-2024",
-      "endDate": "Present",
-      "summary": "In this role, I am responsible for designing and developing a 3D sheet metal enclosure for BarrelCharge products using Creo Parametric. I lead design reviews to ensure product functionality and adherence to engineering principles. My responsibilities include publishing 2D drawings, calculating Geometric Dimensioning and Tolerancing (GD&T) for prototype development, and managing the Bill of Materials (BOM) to ensure manufacturing accuracy. I collaborate closely with supplier and manufacturing teams to refine product design, identify and correct critical design flaws, which has led to an 18% increase in product space efficiency and a 22% reduction in revision time during the final production stages.",
-    },
-    {
-      "name": "Godrej & Boyce Mfg. Co. Ltd.",
-      "position": "Assistant Manager (Mechanical Design Engineer)",
-      "startDate": "10-11-2021",
-      "endDate": "08-14-2023",
-      "summary": "In this position, I conducted static structural analysis using ANSYS on various components of office chairs to eliminate potential failure points, significantly enhancing material selection and reducing iterations. I designed and developed the GEM Office Chair series in compliance with BIFMA and BIS test standards, leading to a 16% reduction in product failure points and a 23% decrease in production costs through rigorous testing. Additionally, I conducted comprehensive market analysis of competitor products to identify critical features, informing an innovative design strategy that resulted in a 15% increase in product quality and customer satisfaction ratings.",
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
