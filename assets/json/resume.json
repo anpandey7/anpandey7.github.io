@@ -24,90 +24,138 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "BarrelCharge Solutions Inc.",
+      "position": "Mechanical Design Engineering Intern",
+      "startDate": "05-21-2024",
+      "endDate": "Present",
+      "summary": "In this role, I am responsible for designing and developing a 3D sheet metal enclosure for BarrelCharge products using Creo Parametric. I lead design reviews to ensure product functionality and adherence to engineering principles. My responsibilities include publishing 2D drawings, calculating Geometric Dimensioning and Tolerancing (GD&T) for prototype development, and managing the Bill of Materials (BOM) to ensure manufacturing accuracy. I collaborate closely with supplier and manufacturing teams to refine product design, identify and correct critical design flaws, which has led to an 18% increase in product space efficiency and a 22% reduction in revision time during the final production stages.",
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Godrej & Boyce Mfg. Co. Ltd.",
+      "position": "Assistant Manager (Mechanical Design Engineer)",
+      "startDate": "10-11-2021",
+      "endDate": "08-14-2023",
+      "summary": "In this position, I conducted static structural analysis using ANSYS on various components of office chairs to eliminate potential failure points, significantly enhancing material selection and reducing iterations. I designed and developed the GEM Office Chair series in compliance with BIFMA and BIS test standards, leading to a 16% reduction in product failure points and a 23% decrease in production costs through rigorous testing. Additionally, I conducted comprehensive market analysis of competitor products to identify critical features, informing an innovative design strategy that resulted in a 15% increase in product quality and customer satisfaction ratings.",
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "University of Michigan, Ann Arbor",
+      "location": "Ann Arbor, Michigan, USA",
+      "url": "https://isd.engin.umich.edu/academics/design-science-program/",
+      "area": "Design Science",
+      "studyType": "Master of Science",
+      "startDate": "2023-28-08",
+      "endDate": "2024-15-12",
+      "score": "3.83 / 4.00",
+      "courses": [" Autobody Structure, Vehicle Dynamic, Systems Engineering, Control of Hybrid Electric Vehicle, Analytical Product Design."]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Fr. Conceicao Rodrigues Institute of Technology",
+      "location": "Vashi, Maharashtra, India",
+      "url": "https://www.fcrit.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-02-08",
+      "endDate": "2021-01-08",
+      "score": "8.18 / 10.00",
+      "courses": [" CAD-CAM-CAE, FEA, Production Process, Engineering Mechanics, Fluid Mechanics, Machine Design, Project Management."]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Lean Six Sigma White Belt",
+      "date": "01/20/2025",
+      "issuer": "Council for Six Sigma Certification",
+      "Certification Number": "NFYV9DyxN9",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Introduction to Geometric Dimensioning and Tolerancing",
+      "date": "07/01/2024",
+      "issuer": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/certificates/6005a1c3eaab7e10773bab55216cf37371049c8585fbfb5e0f4a9c54ce1a77c5?trk=share_certificate",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Control of Mobile Robots",
+      "date": "07/14/2020",
+      "issuer": "Georgia Institute of Technology",
+      "Certification Number": "8WWH9QYSUGWB",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/8WWH9QYSUGWB",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Sensors and Sensor Circuit Design",
+      "date": "07-13-2020",
+      "issuer": "Unviersity of Colorado",
+      "Certification Number" : "9ZYVN7ZNCE5E",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/9ZYVN7ZNCE5E",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Python Data Structures",
+      "date": "06-10-2020",
+      "issuer": "University of Michigan",
+      "Certification Number" : "5GHM54D2ZFCC",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/ZJM3WXZH3QBY",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "date": "05-31-2020",
+      "issuer": "University of Michigan",
+      "Certification Number" : "TBT68QRG6FW7",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/TBT68QRG6FW7",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Autodesk CAD/CAM/CAE for Mechanical Engineering with Autodesk Fusion 360",
+      "date": "05-28-2020",
+      "issuer": "Autodesk",
+      "Certification Number" : "ZJM3WXZH3QBY",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/5GHM54D2ZFCC",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360",
+      "date": "05-28-2020",
+      "issuer": "Autodesk",
+      "Certification Number" : "S2MACLDGSQLE",
+      "url": "https://www.coursera.org/account/accomplishments/verify/S2MACLDGSQLE",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Simulation Analysis for Mechanical Engineers with Autodesk Fusion 360",
+      "date": "05-19-2020",
+      "issuer": "Autodesk",
+      "Certification Number" : "2HL2KMZEBA7N",
+      "url": "https://www.coursera.org/account/accomplishments/verify/2HL2KMZEBA7N",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Modeling and Design for Mechanical Engineers with Autodesk Fusion 360",
+      "date": "05-14-2020",
+      "issuer": "Autodesk",
+      "Certification Number" : "T5MEPQ7Y8ELF",
+      "url": "https://www.coursera.org/account/accomplishments/verify/T5MEPQ7Y8ELF",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360",
+      "date": "05-03-2020",
+      "issuer": "Autodesk",
+      "Certification Number" : "AGEWH658PW3K",
+      "url": "https://www.coursera.org/account/accomplishments/verify/AGEWH658PW3K",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "ANSYS Basic to Professional Training Program",
+      "date": "04-25-2020",
+      "issuer": "Eleation",
+      "Certification Number" : "ESA_AN_863",
+      "url": "https://www.linkedin.com/in/anpandey7/details/certifications/1718636945083/single-media-viewer/?profileId=ACoAACfxzhUBuP3-pu8TbGzd469Av4deYvxsBTQ",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
